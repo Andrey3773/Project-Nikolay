@@ -1,3 +1,3 @@
-from math import sqrt
-
-print(sqrt(4))
+x = 12
+y = 5
+print(x + y)
